@@ -2,6 +2,31 @@
 
 ```
 Event
+  Event ID = 97695848
+  (ra, dec) = (292.0000, -87.0000)
+Date
+  Now = 2018/11/3 19:43:22 (UTC)
+  Search time = 1/1/1 10:45:12 (UTC)
+  Optimal time = 1/1/2 08:36:53 (UTC)
+  Airmass at optimal time = 1.56
+Sun
+  Angular separation = 63.80 (deg)
+  Next rising = 1/1/2 09:49:11 (UTC)
+  Next setting = 1/1/1 23:54:04 (UTC)
+Moon
+  Illumination = 0.85
+  Angular separation = 98.32 (deg)
+  Next rising = 1/1/2 02:23:10 (UTC)
+  Next setting = 1/1/1 13:11:49 (UTC)
+  Next new moon = 2018/11/7 16:02:03 (UTC)
+  Next full moon = 2018/11/23 05:39:12 (UTC)
+Galactic
+  (l, b) = (306.2735, -27.5652)
+  E(B-V) = 0.09
+```
+
+```
+Event
   Event ID = 96502579
   (ra, dec) = (12.0000, 72.0000)
 Date
