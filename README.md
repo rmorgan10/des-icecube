@@ -27,7 +27,7 @@ Galactic
 
 ### Inserting test images
 <img src="/images-EHE_97695848/icecube_97695848_skymap_1-1-2-08-36-53.png" alt="drawing" width="500"/>
-<img src="/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png" width="250"/>
+<img src="/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png" width="250" height="250" />
 <img src="/images-EHE_97695848/icecube_97695848_airmass_1-1-2-08-36-53.png" alt="drawing" width="250"/>
 
 ```
