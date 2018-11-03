@@ -26,10 +26,9 @@ Galactic
 ```
 
 ### Inserting test images
-![skymap-97695848](/images-EHE_97695848/icecube_97695848_skymap_1-1-2-08-36-53.png =200x)
-![ortho-97695848](/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png =100x)
-![airmass-97695848](/images-EHE_97695848/icecube_97695848_airmass_1-1-2-08-36-53.png =100x)
-
+<img src="/images-EHE_97695848/icecube_97695848_skymap_1-1-2-08-36-53.png" alt="drawing" width="200"/>
+<img src="/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png" alt="drawing" width="100"/>
+<img src="/images-EHE_97695848/icecube_97695848_airmass_1-1-2-08-36-53.png" alt="drawing" width="100"/>
 
 ```
 Event
