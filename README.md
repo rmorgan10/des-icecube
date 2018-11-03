@@ -25,6 +25,9 @@ Galactic
   E(B-V) = 0.09
 ```
 
+### Inserting test images
+![skymap-96502579](/images-EHE_96502579/logo.png)
+
 ```
 Event
   Event ID = 96502579
