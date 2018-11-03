@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# TEST COMMIT
+# Hello Nic
 
 You can use the [editor on GitHub](https://github.com/rmorgan10/des-icecube/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
