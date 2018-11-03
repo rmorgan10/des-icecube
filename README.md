@@ -27,8 +27,8 @@ Galactic
 
 ### Inserting test images
 <img src="/des-icecube/images-EHE_97695848/icecube_97695848_skymap_1-1-2-08-36-53.png" width="600" >
-<img src="/des-icecube/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png" width="300" >
-<img src="/des-icecube/images-EHE_97695848/icecube_97695848_airmass_1-1-2-08-36-53.png"  width="300" >
+<img src="/des-icecube/images-EHE_97695848/icecube_97695848_ortho_1-1-2-08-36-53.png" width="300" height="275" >
+<img src="/des-icecube/images-EHE_97695848/icecube_97695848_airmass_1-1-2-08-36-53.png"  width="300" height="275" >
 
 ```
 Event
