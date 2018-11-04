@@ -1,5 +1,38 @@
 ## Recent Alerts 
 
+# EHE 19549266
+### Alert Diagnostics
+```
+Event
+  Event ID = 19549266
+  (ra, dec) = (278.0000, 72.0000)
+Date
+  Now = 2018/11/4 19:01:14 (UTC)
+  Search time = 17/11/21 10:45:12 (UTC)
+  Optimal time = 17/11/22 00:35:36 (UTC)
+  Airmass at optimal time = 999.00
+Sun
+  Angular separation = 96.28 (deg)
+  Next rising = 17/11/22 09:39:23 (UTC)
+  Next setting = 17/11/21 23:26:23 (UTC)
+Moon
+  Illumination = 0.99
+  Angular separation = 79.16 (deg)
+  Next rising = 17/11/21 22:58:44 (UTC)
+  Next setting = 17/11/22 09:25:52 (UTC)
+  Next new moon = 2018/11/7 16:02:03 (UTC)
+  Next full moon = 2018/11/23 05:39:12 (UTC)
+Galactic
+  (l, b) = (102.6792, 27.1914)
+  E(B-V) = 0.24
+```
+### Current Observability
+<img src="/des-icecube/images-EHE_19549266/icecube_19549266_skymap_17-11-22-00-35-36.png" width="633">
+<img src="/des-icecube/images-EHE_19549266/icecube_19549266_ortho_17-11-22-00-35-36.png" width="315" height="295">
+<img src="/des-icecube/images-EHE_19549266/icecube_19549266_airmass_17-11-22-00-35-36.png" width="315" height="295">
+### Future Observability
+## Previous Alerts
+
 
 # ALL BELOW IS TESTING DATA
 ```
