@@ -1,5 +1,44 @@
 ## Recent Alerts 
 
+# EHE 99594884
+### Alert Diagnostics
+```
+Event
+  Event ID = 99594884
+  (ra, dec) = (149.0000, -43.0000)
+Date
+  Now = 2018/11/5 04:15:31 (UTC)
+  Search time = 16/10/27 10:45:12 (UTC)
+  Optimal time = 16/10/28 08:50:26 (UTC)
+  Airmass at optimal time = 1.13
+Sun
+  Angular separation = 61.14 (deg)
+  Next rising = 16/10/28 09:55:01 (UTC)
+  Next setting = 16/10/27 23:04:16 (UTC)
+Moon
+  Illumination = 0.52
+  Angular separation = 117.68 (deg)
+  Next rising = 16/10/27 16:00:04 (UTC)
+  Next setting = 16/10/28 06:05:49 (UTC)
+  Next new moon = 2018/11/7 16:02:03 (UTC)
+  Next full moon = 2018/11/23 05:39:12 (UTC)
+Galactic
+  (l, b) = (272.0531, 9.1107)
+  E(B-V) = 0.05
+```
+
+### Current Observability
+
+<img src="/des-icecube/images-EHE_99594884/icecube_99594884_skymap_16-10-028-08-50-26.png" width="633">
+<img src="/des-icecube/images-EHE_99594884/icecube_99594884_ortho_16-10-028-08-50-26.png" width="315" height="295">
+<img src="/des-icecube/images-EHE_99594884/icecube_99594884_airmass_16-10-028-08-50-26.png" width="315" height="295">
+
+### Future Observability
+
+<img src="/des-icecube/images-EHE_99594884/sun_moon.png" width="633">
+
+## Previous Alerts
+
 # HESE 24603655
 ### Alert Diagnostics
 ```
