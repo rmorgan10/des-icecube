@@ -1,5 +1,48 @@
 ## Recent Alerts 
 
+# EHE 84996872
+### Alert Diagnostics (IceCube)
+Signalness = 0.59
+### Alert Diagnostics (DES)
+```
+Event
+  Event ID = 84996872
+  (ra, dec) = (175.3000, -35.2000)
+Date
+  Now = 2018/11/12 14:55:06 (UTC)
+  Search time = 16/10/18 10:45:12 (UTC)
+  Optimal time = 16/10/19 09:00:39 (UTC)
+  Airmass at optimal time = 1.71
+Sun
+  Angular separation = 35.75 (deg)
+  Next rising = 16/10/19 10:03:46 (UTC)
+  Next setting = 16/10/18 22:57:03 (UTC)
+Moon
+  Illumination = 0.01
+  Angular separation = 30.91 (deg)
+  Next rising = 16/10/19 09:45:32 (UTC)
+  Next setting = 16/10/18 22:20:49 (UTC)
+  Next new moon = 2018/12/7 07:20:21 (UTC)
+  Next full moon = 2018/11/23 05:39:12 (UTC)
+Galactic
+  (l, b) = (287.0809, 25.5005)
+  E(B-V) = 0.08
+```
+
+### Current Observability
+
+<img src="/des-icecube/images-EHE_84996872/icecube_84996872_skymap_16-10-19.png" width="633">
+<img src="/des-icecube/images-EHE_84996872/icecube_84996872_ortho_16-10-19.png" width="315" height="295">
+<img src="/des-icecube/images-EHE_84996872/icecube_84996872_airmass_16-10-19.png" width="315" height="295">
+
+### Future Observability
+
+<img src="/des-icecube/images-EHE_84996872/sun_moon.png" width="633">
+
+[The json file for this alert can be found here](http://raw.githubusercontent.com/rmorgan10/des-icecube/master/json/icecube_84996872_16-10-19.json)
+
+## Previous Alerts
+
 # HESE 58181032
 ### Alert Diagnostics (IceCube)
 Signal Trackness = 0.68
