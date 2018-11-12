@@ -255,5 +255,5 @@ Galactic
 
 <img src="/des-icecube/images-HESE_22108372/sun_moon.png" width="633">
 
-## Previous Alerts
+
 
