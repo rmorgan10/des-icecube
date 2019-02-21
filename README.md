@@ -1,5 +1,50 @@
 ## Recent Alerts 
 
+# HESE 66688965
+### Alert Diagnostics (IceCube)
+Signal Trackness = 0.37
+
+Charge = 12264.54
+### Alert Diagnostics (DES)
+```
+Event
+  Event ID = 66688965
+  (ra, dec) = (267.3650, -16.9379)
+Date
+  Now = 2019/2/21 08:27:59 (UTC)
+  Search time = 19/2/21 08:25:40 (UTC)
+  Optimal time = 19/2/21 09:25:00 (UTC)
+  Airmass at optimal time = 1.10
+Sun
+  Angular separation = 63.39 (deg)
+  Next rising = 19/2/21 10:28:54 (UTC)
+  Next setting = 19/2/21 23:30:20 (UTC)
+Moon
+  Illumination = 0.06
+  Angular separation = 39.82 (deg)
+  Next rising = 19/2/21 08:44:18 (UTC)
+  Next setting = 19/2/21 22:21:13 (UTC)
+  Next new moon = 2019/3/6 16:03:58 (UTC)
+  Next full moon = 2019/3/21 01:42:51 (UTC)
+Galactic
+  (l, b) = (10.7525, 5.4282)
+  E(B-V) = 1.47
+```
+
+### Current Observability
+
+<img src="/des-icecube/images-HESE_66688965/icecube_66688965_skymap_19-2-21.png" width="633">
+<img src="/des-icecube/images-HESE_66688965/icecube_66688965_ortho_19-2-21.png" width="315" height="295">
+<img src="/des-icecube/images-HESE_66688965/icecube_66688965_airmass_19-2-21.png" width="315" height="295">
+
+### Future Observability
+
+<img src="/des-icecube/images-HESE_66688965/sun_moon.png" width="633">
+
+[The json file for this alert can be found here](http://raw.githubusercontent.com/rmorgan10/des-icecube/master/json/icecube_66688965_19-2-21.json)
+
+## Previous Alerts
+
 # HESE 36142391
 ### Alert Diagnostics (IceCube)
 Signal Trackness = 0.84
