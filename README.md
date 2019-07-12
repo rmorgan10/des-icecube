@@ -1,5 +1,58 @@
 ## Recent Alerts 
 
+# GB 132814
+### Alert Diagnostics (IceCube)
+
+Signalness = 0.303
+
+FAR = 2.623 yr^-1 
+
+Energy = 108.670 TeV 
+
+IC50 Area = 1.823 deg^2 
+
+IC90 Area = 12.017 deg^2 
+
+### Alert Diagnostics (DES)
+```
+Event
+  Event ID = 132814
+  (ra, dec) = (78.8869, 12.4438)
+Date
+  Now = 2019/7/12 01:29:23 (UTC)
+  Search time = 19/7/12 01:15:17 (UTC)
+  Optimal time = 19/7/12 10:30:28 (UTC)
+  Airmass at optimal time = 1.63
+Sun
+  Angular separation = 29.41 (deg)
+  Next rising = 19/7/12 11:36:01 (UTC)
+  Next setting = 19/7/12 21:52:57 (UTC)
+Moon
+  Illumination = 0.68
+  Angular separation = 79.47 (deg)
+  Next rising = 19/7/12 03:23:51 (UTC)
+  Next setting = 19/7/12 15:20:46 (UTC)
+  Next new moon = 2019/8/1 03:11:54 (UTC)
+  Next full moon = 2019/7/16 21:38:11 (UTC)
+Galactic
+  (l, b) = (190.2623, -14.7647)
+  E(B-V) = 0.16
+```
+
+### Current Observability
+
+<img src="/des-icecube/images-GB_132814/icecube_132814_skymap_19-7-12.png" width="633">
+<img src="/des-icecube/images-GB_132814/icecube_132814_ortho_19-7-12.png" width="315" height="295">
+<img src="/des-icecube/images-GB_132814/icecube_132814_airmass_19-7-12.png" width="315" height="295">
+
+### Future Observability
+
+<img src="/des-icecube/images-GB_132814/sun_moon.png" width="633">
+
+[The json file for this alert can be found here](http://raw.githubusercontent.com/rmorgan10/des-icecube/master/json/icecube_132814_19-7-12.json)
+
+## Previous Alerts
+
 # GB 132768
 ### Alert Diagnostics (IceCube)
 
